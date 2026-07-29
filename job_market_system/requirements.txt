@@ -1,0 +1,10 @@
+beautifulsoup4
+requests
+pandas
+matplotlib
+fastapi
+uvicorn
+
+# AI module (job advisor narrative + semantic recommendation) -- both free, both local
+sentence-transformers
+ollama
